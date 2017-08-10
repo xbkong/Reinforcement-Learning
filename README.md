@@ -1,5 +1,4 @@
 # Reinforcement-Learning
-Category: Undergraduate Personal
 
 References:
 
